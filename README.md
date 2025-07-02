@@ -1,35 +1,26 @@
-# package_name
 
-Description. 
-The package package_name is used to:
-	Processing:
-		-Histrogram matching
-		-Structural similarity
-		-Resize image
-	Utils:
-		-Read image
-		-Save image
-		-Plot Image
-		-Plot result
-		-Plot histogram 
+Este repositório contém experimentos, desafios e códigos desenvolvidos em Python ao longo dos cursos da [DIO](https://www.dio.me/) e estudos pessoais. Aqui estão incluídos arquivos `.ipynb` do Google Colab e scripts `.py` variados com aplicações em análise de dados, automação e processamento de imagens.
 
-## Installation
+## 📁 Conteúdo da Pasta
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+| Arquivo                | Descrição                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| `acoesgoogleemsf.ipynb`| Análise de ações da Google via Google Finance usando Google Colab         |
+| `df_vendas.py`         | Geração e manipulação de DataFrames simulando registros de vendas         |
+| `configuração.py`      | Script de suporte para desafio de processamento de imagens (Python + DIO) |
+| `testes.py`            | Código auxiliar para testes manuais e depuração de funções                |
+| `ignore.txt`           | Arquivo auxiliar do desafio com notas de execução                         |
 
-```bash
-pip install package_name
-```
+## 🔧 Ferramentas e Tecnologias
+- Python 3.x
+- Pandas e NumPy
+- Matplotlib / Seaborn
+- Google Colab
+- OpenCV (em projetos de imagem)
+- Bibliotecas auxiliares: `os`, `json`, entre outras
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-Ridney Michael 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## 💼 Desafios e Projetos Relacionados
+- 🔍 Análise de dados financeiros com Pandas
+- 🖼️ Processamento de imagens com OpenCV
+- 📊 Criação e manipulação de DataFrames
+- 🧪 Scripts auxiliares para testes e automações simples
