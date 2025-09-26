@@ -9,3 +9,6 @@ pd.read_excel('olist_order_reviews_dataset.csv')
 pd.read_excel('olist_order_payments_dataset.csv')
 pd.read_excel('conjunto de dados olist_order_items_dataset.csv')
 pd.read_excel('olist_customers_dataset.csv')
+
+
+FONTE [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
